@@ -54,13 +54,13 @@ Checks applied during prep are listed in `data_quality.md`.
 
 
 ## Screenshots
-![Overview](img/overview.png)
-![Communications](img/communications.png)
-![Payments](img/payments.png)
-![Vulnerability](img/vulnerability.png)
-![Outcomes](img/outcomes.png)
-![Fail Reasons](img/fail_reasons.png)
-![Remediation](img/remediation.png)
+![Overview](https://github.com/Scottm95/end-to-end-customer-journey-dashboard/blob/main/img/Overview_E2E.PNG)
+![Communications](https://github.com/Scottm95/end-to-end-customer-journey-dashboard/blob/main/img/Communications_E2E.PNG)
+![Payments](https://github.com/Scottm95/end-to-end-customer-journey-dashboard/blob/main/img/Payments_E2E.PNG)
+![Vulnerability](https://github.com/Scottm95/end-to-end-customer-journey-dashboard/blob/main/img/Vulnerability_E2E.PNG)
+![Outcomes](https://github.com/Scottm95/end-to-end-customer-journey-dashboard/blob/main/img/Outcomes_E2E.PNG)
+![Fail Reasons](https://github.com/Scottm95/end-to-end-customer-journey-dashboard/blob/main/img/FailReasons_E2E.PNG)
+![Remediation](https://github.com/Scottm95/end-to-end-customer-journey-dashboard/blob/main/img/Remediation_E2E.PNG)
 
 
 ## Files
@@ -69,6 +69,7 @@ Checks applied during prep are listed in `data_quality.md`.
 - `data_quality.md` – cleaning/validation checks
 - `img/` – screenshots + model diagram
 - `data/` – anonymised sample
+
 
 
 
