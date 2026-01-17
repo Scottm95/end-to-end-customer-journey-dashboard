@@ -34,7 +34,7 @@ A 7-page Power BI MI suite analysing End-to-End (E2E) customer journey audit res
 
 
 ## Data model (grain & relationships)
-![E2E model](img/E2E_Schema.png)
+![E2E model] (https://github.com/Scottm95/end-to-end-customer-journey-dashboard/blob/main/img/E2E_Schema.PNG)
 
 - `Fact_E2E`: **one row per audit/case** (`ID`) and the central filtering table.
 - Supporting tables capture multi-value attributes (e.g., reasons/categories) at a lower grain (**multiple rows per ID**).
@@ -68,6 +68,7 @@ Checks applied during prep are listed in `data_quality.md`.
 - `data_quality.md` – cleaning/validation checks
 - `img/` – screenshots + model diagram
 - `data/` – anonymised sample
+
 
 
 
