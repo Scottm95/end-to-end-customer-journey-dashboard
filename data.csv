@@ -1,0 +1,359 @@
+ID,Created,Date,Interaction IDs,Status,Loan start date,Number of times in arrears,Arrears start date,Current arrears amount,How many PTPs set on this account since first falling into arrears?,How many of these PTPs failed?,How many PAs set on this account since first falling into arrears?,How many of these PAs failed?,How many  holds were applied to this account since first falling into arrears?,Did SMS as per the strategy send to customer during period of arrears? ,Did emails as per the strategy send to customer during period of arrears?,Were all statutory comms sent when required? (NOD/NOSIA/NOT),Are system comms supressed/unsupressed correctly as of now?,Is there a VC flag on this account,Category of VC,Is there a current / open complaint?,Was there a previous complaint relevant to the customers arears position or journey?,Arrears or financial difficulties could not reasonably have been prevented through earlier engagement or support.,Arrears - Fail Reasons,"Any customer vulnerability is identified and appropriately responded to, with tailored support provided where necessary.",Vulnerability - Fail Reasons,The customer’s financial and personal circumstances are clearly understood to inform decision-making.,Customer's financial circumstances - Fail Reasons,"The support or forbearance solutions offered are tailored, fair, and appropriate to the customer’s needs and situation.",Support/Forbearance - Fail Reasons,"The customer fully understands the situation, the implications of their choices, and the next steps.",Customer understanding - Fail Reasons,"Communications are timely, clear, empathetic, and take into account customer needs (e.g. format, tone, timing of comms). Communication was easily understood and accurate. ",Communications - Fail Reasons,"All systems accurately reflect the customer’s circumstances, actions taken, and agreed next steps.",System updates - Fail Reasons,Would further back be a good review - (was any Financial Difficulty  foreseeable at Point Of Sale),Remediation Required ,Which of the below could be described as the primary reason for failure across the entire customer journey?,Were there attempts to X-sell the customer while the account was in arrears?,"If yes, which departments were responsible for attempting to X-sell whilst the customer was in arrears?",Overall outcome,Loan start date - Copy,Tenure (Days),Arrears start date - Copy,Days to enter arrears,Primary Fail Reasons Table.Which of the below could be described as the primary ,Primary Fail Reasons
+2,03/06/2025,2025-06-03,be63c298-8392-423c-9dd0-7af8615b1ac1,In strategy,2025-01-06,2,2025-04-25,41.38,1,0,0,0,1,Yes,Yes,Yes,Yes,Yes,"""Financial""",No,No,Good,,Good,,Good,,Good,,Good,,Good,,Good,,No,No,null,,null,Good Outcome with Feedback,06/01/2025,321,25/04/2025,109,,
+3,05/06/2025,2025-06-05,a069589a-3fc0-49a5-a1a0-2415c5e81857,Terminated,2024-05-13,1,2024-12-03,1032.88,0,0,0,0,0,Yes,Yes,Yes,Yes,No,,No,No,Good,,Good,,Good,,Poor,"""Inappropriate solution for customer scenario""",Good,,Poor,"""Tone was dismissive or robotic, lacking empathy or understanding.""",Good with feedback,"""Inconsistency between call notes and system updates""",No,Yes,null,,null,Poor Outcome - Advisor,13/05/2024,559,03/12/2024,204,,
+4,09/06/2025,2025-06-09,"803f1c20-08f5-4573-9fd2-dd064215b19a
+fa7ff484-5c8f-444c-8af7-02d8e45df5c7
+c60ac83a-9338-4e6a-bd05-497442dce7ed
+https://uk.aeriandi.com/player/app/v2/84490/4744344/portal?ref_75977088
+254fbb2c-e7be-43d7-bebc-1b3154cc2c01
+bd7e2c78-6beb-4992-808b-6efa51a72259
+7419b2c1-f605-473c-829b-bc27219058b8",In strategy,2024-11-12,4,2024-12-31,1225.32,6,0,0,0,6,Yes,Yes,Yes,Yes,Yes,"""Financial""",No,Yes,Poor,"""Agent failed to offer appropriate support early"",""No proactive contact made despite available indicators of payment stress or pre-arrears."",""Missed early warning signs""",Poor,"""Standard solutions offered, no evidence of tailoring based on the vulnerability."",""Vulnerability flag not recorded or updated, impacting future support consistency.""",Good with feedback,"""Key income/outgoings missed or misclassified"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good with feedback,"""No rationale recorded for solution chosen, so suitability cannot be evidenced.""",Poor,"""Next steps unclear or conflicting"",""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding.""",Poor,"""Message unclear or contradictory, causing customer confusion."",""Tone was dismissive or robotic, lacking empathy or understanding.""",Poor,"""Key details missing or incomplete in the system "",""Inconsistency between call notes and system updates""",Yes,Yes,null,,null,Poor Outcome - Advisor,12/11/2024,376,31/12/2024,49,,
+5,10/06/2025,2025-06-10,"c6dfebe2-b5aa-46f9-a543-6aa1725eafd3
+ed60f61f-5dd3-47ad-b8a4-19346bc0af56
+c61b6ddd-81c7-472c-a499-b1d03de67dd5",In strategy,2023-07-21,2,2024-11-08,18.5,2,0,0,0,2,Yes,Yes,Yes,Yes,No,,No,No,Good,,Poor,"""Signs of vulnerability not probed or acknowledged "",""Customer disclosure overlooked or not acted upon""",Good,,Good,,Good,,Good with feedback,"""Tone was dismissive or robotic, lacking empathy or understanding.""",Good,,No,No,null,,null,Poor Outcome - Advisor,21/07/2023,856,08/11/2024,476,,
+6,10/06/2025,2025-06-02,"1dbf6839-7589-49f0-aefc-ed28f5a4046c, 30678079-fe11-48b9-af27-9cc020008ba4, 81d7884b-b73f-40cd-9318-2d89a9d5562a, 8776c603-d733-4dcb-ab98-9a891912cc70, ",In strategy,2024-01-07,2,2025-06-06,31.53,4,1,3,0,1,No,Yes,N/A,Yes,No,,No,No,Good,,Good,,Good,,Good,,Good,,Good,,Good,,No,No,null,,null,Good Outcome ,07/01/2024,686,06/06/2025,516,,
+8,11/06/2025,2025-06-10,"e24ff077-bf82-4c4a-90d8-bd79b83e77a5 
+5fedff0a-2362-4c05-a771-f72bb0bbc1e2 
+7845192b-2987-4ed2-9e50-9f74de1205a1
+a8f7ce3e-4820-4ae5-a1f3-d6a8ef8b47c7
+06b19660-f098-479f-bdd8-8952e67cac9b",Terminated,2024-09-09,3,2024-10-12,969.68,0,0,2,1,1,Yes,Yes,Yes,Yes,Yes,"""Financial"",""Mental & Emotional Wellbeing""",No,No,Good with feedback,"""Agent failed to offer appropriate support early""",Good with feedback,"""Standard solutions offered, no evidence of tailoring based on the vulnerability."",""Vulnerability flag not recorded or updated, impacting future support consistency.""",Good with feedback,"""Customer challenges not explored"",""Assumptions made without clarification""",Good with feedback,"""Proposed solution not affordable or sustainable based on I&E or customer disclosure."",""No rationale recorded for solution chosen, so suitability cannot be evidenced.""",Good with feedback,"""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding."",""Next steps unclear or conflicting"",""Jargon or technical terms used with no clarification""",Good with feedback,"""Tone was dismissive or robotic, lacking empathy or understanding."",""Message unclear or contradictory, causing customer confusion.""",Poor,"""Key details missing or incomplete in the system "",""Incorrect flags or statuses applied""",Yes,Yes,null,,null,Good Outcome with Feedback,09/09/2024,440,12/10/2024,33,,
+7,11/06/2025,2025-06-11,"https://uk.aeriandi.com/player/app/v2/84490/4744344/portal?ref_63216127
+https://uk.aeriandi.com/player/app/v2/84490/4744344/portal?ref_73954611
+https://uk.aeriandi.com/player/app/v2/84490/4744344/portal?ref_74802622
+ffd0ce08-0df1-47e6-8750-f4bd8559bf10",Terminated,2023-10-27,6,2023-12-06,742.5,2,0,0,0,3,Yes,Yes,Yes,Yes,Yes,"""Mental & Emotional Wellbeing""",Yes,No,Good,,Poor,"""Signs of vulnerability not probed or acknowledged "",""Customer disclosure overlooked or not acted upon"",""Vulnerability flag not recorded or updated, impacting future support consistency.""",Good,,Good,,Good,,Poor,"""Tone was dismissive or robotic, lacking empathy or understanding."",""Delayed response or contact, leading to increased customer detriment or anxiety.""",Poor,"""Key details missing or incomplete in the system "",""Inconsistency between call notes and system updates""",No,No,null,,null,Poor Outcome - Advisor,27/10/2023,758,06/12/2023,40,,
+9,11/06/2025,2025-06-04,"2eadb2f8-66bc-4086-b8be-c59d8177fd65
+7539f657-c072-41f5-8a7a-f6e5bdc14732",In strategy,2024-11-28,15,2025-03-02,94.24,2,0,0,0,0,Yes,Yes,Yes,No,No,,No,No,Good,,Good,,Good with feedback,"""Assumptions made without clarification""",Good,,Good,,Good,,Good,,Yes,Yes,null,,null,Poor Outcome - Process or System,28/11/2024,360,02/03/2025,94,,
+10,12/06/2025,2025-06-11,"7d6c6e27-f215-43c9-87f4-b6a31378e17c-jan 12 2025 
+2ab9e06e-81de-4f20-9c53-2c77f562f191-oct 2024",Up to Date,2024-08-01,1,2024-09-30,0,1,0,0,0,0,Yes,Yes,Yes,Yes,No,,No,No,Good with feedback,"""Agent failed to offer appropriate support early""",Good,,Good with feedback,"""Assumptions made without clarification"",""Key income/outgoings missed or misclassified""",Poor,"""Inflexible options offered""",Poor,"""Next steps unclear or conflicting""",Good with feedback,"""Tone was dismissive or robotic, lacking empathy or understanding.""",Poor,"""Key details missing or incomplete in the system "",""Inconsistency between call notes and system updates""",No,No,null,,null,Poor Outcome - Advisor,01/08/2024,479,30/09/2024,60,,
+11,13/06/2025,2025-06-13,"627ceb04-6d50-484a-9028-5002373d53da
+8724099f-0d96-43a9-a69e-6e4702d79d0d",In strategy,2024-07-09,3,2025-01-28,69.54,0,0,1,0,1,Yes,Yes,Yes,Yes,Yes,"""Financial""",No,No,Poor,"""Missed early warning signs""",Good,,Good,,Good,,Good with feedback,"""Key implications not explained""",Good,,Good,,No,No,null,,null,Good Outcome with Feedback,09/07/2024,502,28/01/2025,203,,
+13,13/06/2025,2025-06-13,.014ce011-ccc5-49ec-ae91-2e2d789818cc,DCA,2024-08-03,5,2024-12-19,1205.32,1,1,0,0,0,Yes,Yes,Yes,Yes,No,,No,No,Good,,Poor,"""Vulnerability flag not recorded or updated, impacting future support consistency."",""Support offered was not appropriate for the vulnerability""",Poor,"""Assumptions made without clarification"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good,,Good with feedback,"""Next steps unclear or conflicting""",Good with feedback,"""Tone was dismissive or robotic, lacking empathy or understanding.""",Poor,"""Inconsistency between call notes and system updates""",Yes,No,null,,null,Poor Outcome - Advisor,03/08/2024,477,19/12/2024,138,,
+12,13/06/2025,2025-06-02,"be533ed0-0700-49d1-a3cf-552f7c261903, d3c10458-8c4d-4ed2-9137-2347fcebb26c",In strategy,2023-09-07,2,2024-07-09,30.53,2,0,0,0,0,N/A,Yes,Yes,Yes,No,,No,No,Good,,Good,,Good,,Good,,Good,,Good with feedback,"""Message unclear or contradictory, causing customer confusion.""",Good,,No,No,null,,null,Good Outcome with Feedback,07/09/2023,808,09/07/2024,306,,
+15,16/06/2025,2025-06-02,"43d3abf1-4ada-4997-9234-a21dd6312036, 13fe1cf8-d3e3-4b5a-9fdb-ce32a74e7f3b",Up to Date,2023-10-30,1,2024-11-21,0,0,0,0,0,0,N/A,Yes,Yes,Yes,No,,No,Yes,Good,,Good,,Good,,Good,,Good,,Good with feedback,"""Message unclear or contradictory, causing customer confusion.""",Good,,No,No,null,,null,Poor Outcome - Process or System,30/10/2023,755,21/11/2024,388,,
+14,16/06/2025,2025-06-13,"81152468 
+81153032
+
+ec35ac5d-a7e6-42e3-8cee-2e3fdfa46deb
+9d96e36b-2654-4b1b-8dc8-524367fceee4",In strategy,2024-09-15,2,2025-03-05,33.5,1,0,0,0,0,Yes,Yes,Yes,Yes,No,,No,No,Good with feedback,"""Missed early warning signs""",Poor,"""Signs of vulnerability not probed or acknowledged "",""Customer disclosure overlooked or not acted upon"",""Vulnerability flag not recorded or updated, impacting future support consistency.""",Good with feedback,"""Income & expenditure not captured, or done superficially with no follow-up questions."",""No evidence of personalisation in the outcome based on the customer’s circumstances."",""Customer challenges not explored""",Good,,Good,,Good,,Good with feedback,"""Next steps not documented or wrongly recorded, leading to confusion or follow-up issues."",""Inconsistency between call notes and system updates""",No,Yes,null,,null,Good Outcome with Feedback,15/09/2024,434,05/03/2025,171,,
+18,17/06/2025,2025-06-17,"78261037
+78398598
+cc201032-9ea2-4f93-8d99-d350dc2287f9
+bf087fcf-c576-43fb-be01-d64a84359941
+a15a71f2-22ef-4ea9-bb50-66df919f2c9a",In strategy,2024-06-22,1,2025-03-12,56.32,1,0,0,0,1,Yes,Yes,Yes,Yes,Yes,"""Health and Capacity"",""Financial""",No,No,Poor,"""Missed early warning signs"",""No proactive contact made despite available indicators of payment stress or pre-arrears."",""Agent failed to offer appropriate support early"",""Customer disclosed difficulties previously but no follow-up action was taken or recorded.""",Poor,"""Standard solutions offered, no evidence of tailoring based on the vulnerability."",""Support offered was not appropriate for the vulnerability"",""Vulnerability flag not recorded or updated, impacting future support consistency.""",Poor,"""Income & expenditure not captured, or done superficially with no follow-up questions."",""Key income/outgoings missed or misclassified"",""Customer challenges not explored"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Poor,"""Proposed solution not affordable or sustainable based on I&E or customer disclosure."",""Inflexible options offered"",""Inappropriate solution for customer scenario"",""No rationale recorded for solution chosen, so suitability cannot be evidenced.""",Poor,"""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding."",""Next steps unclear or conflicting"",""Jargon or technical terms used with no clarification"",""Customer questions not answered properly or dismissed.""",Good with feedback,"""Tone was dismissive or robotic, lacking empathy or understanding."",""Message unclear or contradictory, causing customer confusion.""",Poor,"""Key details missing or incomplete in the system "",""Next steps not documented or wrongly recorded, leading to confusion or follow-up issues."",""Incorrect flags or statuses applied""",No,Yes,null,,null,Poor Outcome - Advisor,22/06/2024,519,12/03/2025,263,,
+17,17/06/2025,2025-06-17,"8a7d123d-214a-497f-ab72-e798e1e897ad
+2821695c-c709-4a20-a7f0-f886fe5b9387",In strategy,2025-01-15,2,2025-02-18,117.88,2,1,0,0,2,Yes,Yes,Yes,Yes,Yes,"""Financial""",No,No,Good,,Good with feedback,"""Signs of vulnerability not probed or acknowledged """,Poor,"""Customer challenges not explored"",""Key income/outgoings missed or misclassified""",Good,,Good,,Good,,Good,,No,No,null,,null,Good Outcome with Feedback,15/01/2025,312,18/02/2025,34,,
+19,18/06/2025,2025-06-18,"4c1bd720-24b7-4caf-a7b3-ef23137ba6ec
+b0fec555-e0dc-4a75-a938-ac21b275f4ec
+f12a9683-01a3-4622-b9e9-9ecde6c50851",In strategy,2024-06-10,3,2024-12-30,58,0,0,1,0,1,Yes,Yes,Yes,Yes,Yes,"""Financial""",No,No,Good,,Good,,Good with feedback,"""Key income/outgoings missed or misclassified""",Good,,Good,,Good,,Good,,No,No,null,,null,Good Outcome with Feedback,10/06/2024,531,30/12/2024,203,,
+20,19/06/2025,2025-06-19,"fc1def01-6cd6-4f03-8d79-d570807945ac
+6b36b62f-a7a4-40ed-b83c-24d0fc8ab83d
+191d881e-c630-4501-9c68-4046ea7d6938
+80a458ca-d995-468c-9034-3522b3e095f6",In strategy,2024-07-28,3,2024-08-13,117,0,0,0,0,1,Yes,Yes,Yes,Yes,No,,No,Yes,Good with feedback,"""No proactive contact made despite available indicators of payment stress or pre-arrears.""",Good,,Good,,Good,,Good,,Good,,Good,,No,No,null,,null,Good Outcome with Feedback,28/07/2024,483,13/08/2024,16,,
+21,19/06/2025,2025-06-02,"766e0aab-5208-4675-b451-62799e57cfa3, 50db6444-a002-48d3-86a0-a5492f5fc1d6",In strategy,2024-04-05,2,2024-05-02,549.03,0,0,1,0,0,Yes,Yes,Yes,Yes,Yes,"""Financial"",""Health and Capacity"",""Mental & Emotional Wellbeing"",""Mental Capacity""",No,No,Poor,"""Agent failed to offer appropriate support early"",""Customer disclosed difficulties previously but no follow-up action was taken or recorded.""",Poor,"""Standard solutions offered, no evidence of tailoring based on the vulnerability.""",Good with feedback,"""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good with feedback,"""No rationale recorded for solution chosen, so suitability cannot be evidenced.""",Poor,"""Key implications not explained""",Good,,Good,,Yes,No,null,,null,Poor Outcome - Advisor,05/04/2024,597,02/05/2024,27,,
+23,20/06/2025,2025-06-02,"713764fc-0b27-4a93-a331-04e216985d51, 7f6e7478-294f-4139-991e-470faba863be",Terminated,2024-08-14,1,2024-11-04,968.32,1,1,1,0,0,Yes,Yes,Yes,Yes,Yes,"""Health and Capacity""",Yes,No,Good,,Good,,Good,,Good,,Good with feedback,"""Customer questions not answered properly or dismissed."",""Next steps unclear or conflicting""",Good with feedback,"""Incorrect or misleading information given, including wrong payment dates or account details.""",Good,,No,No,null,,null,Good Outcome with Feedback,14/08/2024,466,04/11/2024,82,,
+22,20/06/2025,2025-06-20,"a5c5eb29-ae86-436f-8cf0-0684d832f29c
+42e60c72-5685-4f14-8ca4-54b006ece03f
+c64acb7b-38bc-4fd6-a61d-bb581c1d5304",Terminated,2023-07-23,3,2024-01-03,934.78,2,2,0,0,1,Yes,Yes,Yes,Yes,Yes,"""Health and Capacity""",No,No,Good,,Good,,Good,,Good,,Good,,Good,,Good with feedback,"""Inconsistency between call notes and system updates""",Yes,No,null,,null,Good Outcome with Feedback,23/07/2023,854,03/01/2024,164,,
+24,23/06/2025,2025-06-20,5db483b1-1499-43c4-b426-393cec1f0a72,In strategy,2024-04-08,1,2025-01-23,109,1,0,0,0,0,Yes,Yes,Yes,Yes,No,,No,No,Good,,Good,,Good with feedback,"""Customer challenges not explored"",""Assumptions made without clarification""",Good with feedback,"""No rationale recorded for solution chosen, so suitability cannot be evidenced."",""Customer’s preferences not considered"",""Inappropriate solution for customer scenario""",Good,,Good,,Good,,No,No,null,,null,Good Outcome with Feedback,08/04/2024,594,23/01/2025,290,,
+25,23/06/2025,2025-06-02,"048aa037-e39d-44c4-8e5a-cc4de7e13462, e2de87ae-6c84-4c1e-ad8d-70c528dc8b7f, 80d810a8-9a05-4fea-b24d-d92880edb53f, aff61757-34ee-48d9-aecb-937158019a6b, a95c6e96-bb9e-4ced-8f9f-6bba5f06701e, e2c4052e-fc38-4e5e-b042-835d72a649c8",In strategy,2024-05-30,3,2024-10-24,62.07,2,1,0,0,0,N/A,Yes,Yes,Yes,Yes,"""Financial""",No,No,Poor,"""Missed early warning signs""",Good,,Good with feedback,"""Customer challenges not explored"",""Assumptions made without clarification""",Good with feedback,"""No rationale recorded for solution chosen, so suitability cannot be evidenced.""",Good,,Good,,Good,,No,No,null,,null,Poor Outcome - Process or System,30/05/2024,542,24/10/2024,147,,
+26,24/06/2025,2025-06-02,97a2d876-7299-4894-a305-66669df5f848,In strategy,2024-10-17,2,2025-01-21,68.49,0,0,1,0,0,Yes,Yes,Yes,Yes,Yes,"""Mental & Emotional Wellbeing"",""Financial""",No,No,Good,,Good,,Good with feedback,"""Customer challenges not explored"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Poor,"""Inappropriate solution for customer scenario""",Good,,Good,,Poor,"""Key details missing or incomplete in the system """,No,Yes,null,,null,Poor Outcome - Advisor,17/10/2024,402,21/01/2025,96,,
+28,24/06/2025,2025-06-24,"0bf09692-bd64-4171-a114-bf703efa23e1 
+292887d6-97ce-4cf7-b493-1beee875d815 
+90844468-b007-4924-ad2c-300b56d21795 
+ac4e18f1-4a03-4e5b-914e-8af399b7e5ae 
+f65ee3f5-8e1e-41d5-badd-42d47d08ce24",In strategy,2025-02-28,1,2025-05-16,22.44,1,0,0,0,1,Yes,Yes,N/A,Yes,Yes,"""Mental & Emotional Wellbeing""",No,No,Good,,Poor,"""Standard solutions offered, no evidence of tailoring based on the vulnerability."",""Support offered was not appropriate for the vulnerability"",""Vulnerability flag not recorded or updated, impacting future support consistency.""",Good with feedback,"""Assumptions made without clarification""",Good,,Good,,Poor,"""Tone was dismissive or robotic, lacking empathy or understanding."",""Customer preferences ignored""",Poor,"""Key details missing or incomplete in the system """,No,Yes,null,,null,Poor Outcome - Advisor,28/02/2025,268,16/05/2025,77,,
+27,24/06/2025,2025-06-13,"ec7bea13-54f9-4b28-a90f-e520fd3c5100
+",Up to Date,2023-07-09,4,2024-09-25,0,1,0,0,0,0,Yes,Yes,Yes,N/A,No,,No,No,Good,,Good,,Good,,Good,,Good with feedback,"""Key implications not explained""",Good,,Good,,Yes,No,null,,null,Good Outcome with Feedback,09/07/2023,868,25/09/2024,444,,
+32,25/06/2025,2025-06-02,8e24d6ab-b8d4-4ea1-9cce-d8698a457ba2,Terminated,2024-07-30,2,2024-08-29,595.9,0,0,1,0,0,Yes,Yes,Yes,Yes,No,,No,No,Good,,Good,,Good,,Good,,Good,,Good,,Good,,No,No,null,,null,Good Outcome ,30/07/2024,481,29/08/2024,30,,
+31,25/06/2025,2025-01-03,"318f622f-9475-40b4-a91b-7a513e2abb5c, 14f540a6-04af-4353-a5e9-b9afb0e7b8f7, 49b68cd0-4ebe-4d7e-ba64-bf92e40ed9f2, 5afc9721-a160-418b-9127-f09acbf42c9e",DCA,2024-07-15,1,2024-09-29,426,1,1,2,2,1,N/A,Yes,Yes,No,Yes,"""Health and Capacity""",No,No,Good with feedback,"""Agent failed to offer appropriate support early""",Good,,Good,,Good,,Poor,"""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding.""",Poor,"""Delayed response or contact, leading to increased customer detriment or anxiety.""",Good,,Yes,No,null,,null,Poor Outcome - Advisor,15/07/2024,496,29/09/2024,76,,
+30,25/06/2025,2025-06-24,"db8ea201-a3c5-4770-94ce-f288e2317a94
+6e049c7b-17c5-4f0d-b7f8-7f6b8e9e4209
+438038e4-c511-4b60-b932-80ee18d9cd64
+dc7f78eb-5d12-4243-8648-8212b2bed750",Up to Date,2027-09-26,1,2024-12-16,0,1,0,0,0,0,No,Yes,N/A,No,No,,No,Yes,Poor,"""Agent failed to offer appropriate support early""",Good,,Poor,"""Assumptions made without clarification""",Good,,Good,,Good with feedback,"""Tone was dismissive or robotic, lacking empathy or understanding.""",Poor,"""Key details missing or incomplete in the system """,Yes,Yes,null,,null,Poor Outcome - Advisor,26/09/2027,-672,16/12/2024,-1014,,
+29,25/06/2025,2025-06-25,"64d20aa4-4360-47d3-8854-e58b671abac2
+8694eab3-bea3-4026-a534-4a706c4fe69b
+a0579157-27fb-4d10-a822-1aaefd7f682f
+a70ee2f7-e186-495b-b9fd-26e0919a2258",In strategy,2024-08-19,1,2024-11-14,70.4,0,0,0,0,2,Yes,Yes,Yes,Yes,No,,Yes,Yes,Good,,Good,,Good,,Good,,Poor,"""Customer questions not answered properly or dismissed.""",Good,,Poor,"""Inconsistency between call notes and system updates"",""Key details missing or incomplete in the system """,No,No,null,,null,Poor Outcome - Advisor,19/08/2024,461,14/11/2024,87,,
+34,26/06/2025,2025-06-26,"7940b566-4a52-423c-ab7c-0b7b01a9c741 
+ 5ad769de-6388-4bf0-960b-f5b865c9b8e3 
+055b6f3f-7474-4e46-9f6a-dd4c458c4a65
+42ea20bd-df06-4cd4-8f83-acc3547fc6ee",In strategy,2025-04-05,2,2025-05-13,22.38,2,1,0,0,2,Yes,Yes,N/A,Yes,Yes,"""Mental & Emotional Wellbeing"",""Life Events"",""Financial""",Yes,No,Good with feedback,"""Missed early warning signs"",""Customer disclosed difficulties previously but no follow-up action was taken or recorded.""",Poor,"""Customer disclosure overlooked or not acted upon"",""Standard solutions offered, no evidence of tailoring based on the vulnerability."",""Support offered was not appropriate for the vulnerability"",""Vulnerability flag not recorded or updated, impacting future support consistency.""",Poor,"""Key income/outgoings missed or misclassified"",""Customer challenges not explored"",""Assumptions made without clarification"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Poor,"""Proposed solution not affordable or sustainable based on I&E or customer disclosure."",""Inflexible options offered"",""Inappropriate solution for customer scenario"",""No rationale recorded for solution chosen, so suitability cannot be evidenced.""",Poor,"""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding."",""Next steps unclear or conflicting"",""Jargon or technical terms used with no clarification"",""Customer questions not answered properly or dismissed.""",Poor,"""Tone was dismissive or robotic, lacking empathy or understanding."",""Message unclear or contradictory, causing customer confusion."",""Customer preferences ignored""",Poor,"""Key details missing or incomplete in the system "",""Next steps not documented or wrongly recorded, leading to confusion or follow-up issues.""",Yes,Yes,null,,null,Poor Outcome - Advisor,05/04/2025,232,13/05/2025,38,,
+33,26/06/2025,2025-06-26,"https://uk.aeriandi.com/player/app/v2/84490/4744344/portal?ref_69370007
+https://uk.aeriandi.com/player/app/v2/84490/4744344/portal?ref_72136332
+https://uk.aeriandi.com/player/app/v2/84490/4744344/portal?ref_74491821
+https://uk.aeriandi.com/player/app/v2/84490/4744344/portal?ref_79735226
+
+*There is an additional interaction by Tarachand Rohra on the 5th of April 2024 but I was unable to retrieve it where the very first arrangements are booked.
+
+",In strategy,2024-02-28,3,2024-04-03,654.54,1,1,3,3,1,Yes,Yes,Yes,Yes,Yes,"""Mental & Emotional Wellbeing"",""Financial""",No,No,Good,,Poor,"""Support offered was not appropriate for the vulnerability"",""Customer disclosure overlooked or not acted upon"",""Signs of vulnerability not probed or acknowledged """,Poor,"""Income & expenditure not captured, or done superficially with no follow-up questions."",""Customer challenges not explored"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Poor,"""Proposed solution not affordable or sustainable based on I&E or customer disclosure.""",Good,,Good,,Good with feedback,"""Key details missing or incomplete in the system """,No,Yes,null,,null,Poor Outcome - Advisor,28/02/2024,634,03/04/2024,35,,
+37,27/06/2025,2025-06-27,"3e3fb48a-1f1d-4d85-9f8d-dc34ecbad174
+dfdd2571-bee2-49dd-8b1b-6f9db7b55a1e",In strategy,2025-01-17,2,2025-04-03,90.5,2,2,0,0,0,Yes,Yes,Yes,Yes,Yes,"""Health and Capacity"",""Mental & Emotional Wellbeing"",""Financial""",No,No,Good,,Good,,Good,,Good,,Good,,Poor,"""Tone was dismissive or robotic, lacking empathy or understanding.""",Poor,"""Key details missing or incomplete in the system """,No,No,null,,null,Good Outcome with Feedback,17/01/2025,310,03/04/2025,76,,
+38,27/06/2025,2025-06-02,96f72f97-fe90-44c0-bc59-26787b7e16b8,Up to Date,2024-04-13,1,2025-05-29,-14.08,1,1,0,0,0,N/A,Yes,Yes,N/A,Yes,"""Financial""",No,No,Good,,Good,,Good,,Good,,Poor,"""Next steps unclear or conflicting"",""Key implications not explained""",Poor,"""Message unclear or contradictory, causing customer confusion."",""Incorrect or misleading information given, including wrong payment dates or account details.""",Good,,No,No,null,,null,Poor Outcome - Advisor,13/04/2024,589,29/05/2025,411,,
+39,27/06/2025,2025-06-27,"b2618225-91c6-4c4c-9c2c-4ddaf7ee24cd- call on the 12/01/2025 
+",In strategy,2024-12-17,5,2025-01-08,38.26,1,0,0,0,0,Yes,Yes,Yes,No,No,,No,No,Good,,Good,,Poor,"""Customer challenges not explored"",""Assumptions made without clarification""",Good,,Good,,Good,,Poor,"""Next steps not documented or wrongly recorded, leading to confusion or follow-up issues."",""Inconsistency between call notes and system updates""",Yes,Yes,null,,null,Poor Outcome - Advisor,17/12/2024,341,08/01/2025,22,,
+36,27/06/2025,2025-06-02,c7b69b4c-13f9-4d8c-808d-24c18c548b41,Up to Date,2023-11-30,4,2024-05-17,0,1,0,0,0,0,N/A,Yes,Yes,N/A,No,,No,No,Good,,Good,,Good,,Good,,Good,,Good,,Poor,"""Key details missing or incomplete in the system """,No,Yes,null,,null,Poor Outcome - Advisor,30/11/2023,724,17/05/2024,169,,
+35,27/06/2025,2025-06-25,".f4e5b364-1b2b-483e-b4c6-9749fd9123ea
+06c40e78-e102-4d9d-8f45-155708007df8
+call on the 28th Jan 2024 - call archived ",Up to Date,2023-09-30,2,2023-12-27,0,1,0,0,0,0,Yes,Yes,Yes,No,No,,No,No,Poor,"""Agent failed to offer appropriate support early""",Good,,Good,,Good,,Poor,"""Next steps unclear or conflicting""",Good with feedback,"""Message unclear or contradictory, causing customer confusion.""",Good,,No,Yes,null,,null,Poor Outcome - Advisor,30/09/2023,785,27/12/2023,88,,
+40,30/06/2025,2025-06-30,"5ac1624c-351e-4ca8-9215-3aaadaeec493
+fa47d066-0207-4dd4-bc65-cf2f5a67b032
+7b132464-367d-4b27-b1c0-71b72d6e5bb4",Up to Date,2024-05-04,7,2024-06-25,0,2,0,0,0,0,Yes,Yes,Yes,Yes,No,,No,No,Good,,Good,,Good with feedback,"""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good with feedback,"""Customer’s preferences not considered""",Good,,Poor,"""Tone was dismissive or robotic, lacking empathy or understanding."",""Customer preferences ignored""",Good,,No,No,null,,null,Poor Outcome - Advisor,04/05/2024,568,25/06/2024,52,,
+41,08/07/2025,2025-07-08,"61ee9af0-f759-458a-afca-865c6b1cb182
+a4d71c2b-b964-49ab-af02-5b2294b87de7
+84d68dcd-a5f7-4236-a4d3-11be90a3170b",In strategy,2024-01-12,2,2024-07-26,23.25,2,1,0,0,1,Yes,Yes,Yes,Yes,No,,No,No,Good,,Good,,Good,,Good with feedback,"""Customer’s preferences not considered""",Good,,Good,,Good,,No,No,null,,null,Good Outcome with Feedback,12/01/2024,681,26/07/2024,196,,
+42,09/07/2025,2025-07-09,6a682edd-7e98-44ca-8af0-521baf98df40,Terminated,2023-11-23,2,2024-11-21,464.04,1,1,0,0,0,Yes,Yes,Yes,Yes,No,,No,No,Good,,Poor,"""Vulnerability flag not recorded or updated, impacting future support consistency."",""Standard solutions offered, no evidence of tailoring based on the vulnerability.""",Good,,Good,,Good,,Good,,Good,,No,No,null,,null,Poor Outcome - Advisor,23/11/2023,731,21/11/2024,364,,
+43,10/07/2025,2025-07-10,eac6a7f6-074b-45f1-88a8-014fc41cb728v,In strategy,2024-01-24,7,2024-05-24,73.5,1,1,0,0,0,Yes,Yes,Yes,Yes,Yes,"""Financial"",""Life Events""",No,No,Good,,Good with feedback,"""Standard solutions offered, no evidence of tailoring based on the vulnerability.""",Good,,Good,,Good,,Good,,Good,,No,Yes,null,,null,Good Outcome with Feedback,24/01/2024,669,24/05/2024,121,,
+44,10/07/2025,2025-07-10,44a2ea5d-558e-4241-9fed-a5bebf5c5fe6,In strategy,2024-10-23,2,2025-04-14,67.5,1,0,0,0,0,Yes,Yes,Yes,No,Yes,"""Financial""",No,No,Good,,Good,,Good,,Good,,Good,,Good,,Good,,No,Yes,null,,null,Good Outcome ,23/10/2024,396,14/04/2025,173,,
+45,10/07/2025,2025-07-10,"d0c66228-98fd-469b-8c85-69921de7d4b1 
+a99a2476-e5a1-458a-b19c-bf0dfa6c4bf9
+bfdee3b8-fc92-453a-b9f7-a4bd12d2da83
+9c7a6907-a14a-429e-a107-cc92ab2622e2",Up to Date,2024-03-27,1,2025-07-14,0,1,0,0,0,1,Yes,Yes,N/A,Yes,No,,No,No,Good,,Good,,Good with feedback,"""Assumptions made without clarification"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good,,Good with feedback,"""Next steps unclear or conflicting"",""Customer questions not answered properly or dismissed.""",Good with feedback,"""Message unclear or contradictory, causing customer confusion.""",Good with feedback,"""Next steps not documented or wrongly recorded, leading to confusion or follow-up issues.""",No,No,null,,null,Good Outcome with Feedback,27/03/2024,606,14/07/2025,474,,
+46,16/07/2025,2025-07-16,5dbe5fe2-ce9d-4ed0-bb27-6ddba1b0c8e9,Up to Date,2024-08-20,3,2024-10-29,0,1,0,0,0,0,Yes,Yes,Yes,N/A,No,,No,No,Good with feedback,"""No proactive contact made despite available indicators of payment stress or pre-arrears.""",Good,,Good with feedback,"""Assumptions made without clarification""",Good with feedback,"""No rationale recorded for solution chosen, so suitability cannot be evidenced.""",Good,,Good,,Good,,No,No,null,,null,Good Outcome with Feedback,20/08/2024,460,29/10/2024,70,,
+47,17/07/2025,2025-07-16,"71687878 
+71693363
+71706816
+c892b362-8398-4507-a00c-384b8ad464d3
+e7162082-bf87-484b-bd0f-5a812fd79a7c
+febf7fbc-40f5-41fb-8c5d-5485f3a1ac13
+391bf602-89f6-480f-ad7b-97c5b7bde707
+097ccfbb-5654-43b5-aded-447dcdd64b2e",Up to Date,2024-06-23,1,2024-10-23,0,1,0,0,0,1,Yes,Yes,Yes,Yes,Yes,"""Mental & Emotional Wellbeing"",""Financial""",No,No,Poor,"""Missed early warning signs"",""Agent failed to offer appropriate support early"",""Customer disclosed difficulties previously but no follow-up action was taken or recorded.""",Poor,"""Support offered was not appropriate for the vulnerability""",Poor,"""Customer challenges not explored"",""Assumptions made without clarification"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good with feedback,"""Customer’s preferences not considered""",Poor,"""Next steps unclear or conflicting"",""Jargon or technical terms used with no clarification"",""Customer questions not answered properly or dismissed.""",Poor,"""Tone was dismissive or robotic, lacking empathy or understanding."",""Message unclear or contradictory, causing customer confusion."",""Customer preferences ignored""",Good with feedback,"""Key details missing or incomplete in the system "",""Inconsistency between call notes and system updates"",""Incorrect flags or statuses applied""",No,Yes,null,,null,Good Outcome with Feedback,23/06/2024,518,23/10/2024,122,,
+48,21/07/2025,2025-07-21,"9e5a0a10-d329-444c-b991-8234d58c779b, 4b8f9c6d-f808-4cd3-9235-3ba5496361cf, 9adfed09-7de1-4a1e-b6bc-b78c6231841c",In strategy,2024-08-07,1,2024-11-04,135.57,1,1,0,0,0,Yes,Yes,Yes,N/A,No,,No,No,Poor,"""Missed early warning signs""",Good,,Good,,Good,,Poor,"""Key implications not explained"",""Next steps unclear or conflicting""",Poor,"""Delayed response or contact, leading to increased customer detriment or anxiety.""",Good,,No,No,null,,null,Poor Outcome - Advisor,07/08/2024,473,04/11/2024,89,,
+49,22/07/2025,2025-07-21,"72785865
+73605104
+73610603
+76541823
+80339486
+291ec16a-8be4-4d2c-8f76-3128a8ab5a93
+ad62db25-3d55-4003-aad4-0c7ee9420b77 
+56ab0eff-ccf2-4f53-ad18-540beae12b25
+5a6ffbf9-fed0-4908-a912-9fca45968858
+014b01b9-bf67-4f6e-9cf1-d4d65a0268bd
+cdbf4f6a-2928-4635-a58a-a50e4fb96fbe
+b8375296-d314-4cd1-ab58-0159738afdf1
+6569e360-4efa-47bd-ba26-d48278bfbd0c
+d2cadf3d-c062-4279-b48e-79d491cfc062
+6ddb36d5-aa7e-4946-9333-1cf68299919d",DCA,2024-06-29,1,2024-08-01,774.59,2,2,0,0,3,Yes,Yes,Yes,Yes,Yes,"""Mental & Emotional Wellbeing"",""Financial"",""Life Events""",No,No,Poor,"""Missed early warning signs"",""No proactive contact made despite available indicators of payment stress or pre-arrears."",""Non Justified hold or delay in contact, leading to escalation in arrears or stress for the customer."",""Agent failed to offer appropriate support early"",""Customer disclosed difficulties previously but no follow-up action was taken or recorded.""",Poor,"""Standard solutions offered, no evidence of tailoring based on the vulnerability."",""Support offered was not appropriate for the vulnerability"",""Vulnerability flag not recorded or updated, impacting future support consistency.""",Poor,"""Income & expenditure not captured, or done superficially with no follow-up questions."",""Customer challenges not explored"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Poor,"""Inappropriate solution for customer scenario"",""No rationale recorded for solution chosen, so suitability cannot be evidenced."",""Inflexible options offered""",Good with feedback,"""Next steps unclear or conflicting"",""Jargon or technical terms used with no clarification"",""Customer questions not answered properly or dismissed.""",Good with feedback,"""Tone was dismissive or robotic, lacking empathy or understanding."",""Message unclear or contradictory, causing customer confusion.""",Poor,"""Key details missing or incomplete in the system "",""Incorrect flags or statuses applied""",Yes,Yes,null,,null,Poor Outcome - Advisor,29/06/2024,512,01/08/2024,33,,
+50,23/07/2025,2025-07-23,"5393bd43-e25b-4ed4-ae3e-fd4944c75efa, 
+4e3302c6-fd8a-462e-9ed7-c89d8fefc94e,
+a8e422eb-530b-4e02-b87f-ecad9fe81437, 
+c8a77bb4-1c3f-471d-85d9-b3c0e8c1b04f, 
+7b59c774-2748-46db-94b1-943851968bf7,
+f8e50a22-f1fe-41a4-add4-34d93618f629,
+dc57f5db-27c6-4156-9df3-81df04ceb2b6",Up to Date,2024-01-24,2,2024-12-04,0,1,1,0,0,0,Yes,Yes,Yes,N/A,Yes,"""Financial""",No,No,Poor,"""Agent failed to offer appropriate support early"",""Missed early warning signs""",Good with feedback,"""Vulnerability flag not recorded or updated, impacting future support consistency."",""Signs of vulnerability not probed or acknowledged """,Good,,Poor,"""Inappropriate solution for customer scenario""",Poor,"""Next steps unclear or conflicting""",Poor,"""Incorrect or misleading information given, including wrong payment dates or account details.""",Good,,No,No,null,,null,Poor Outcome - Advisor,24/01/2024,669,04/12/2024,315,,
+51,24/07/2025,2025-07-23,"79904536
+a99d3618-55a5-462e-a0e8-a3a18a9c9f70
+481c8716-bf47-4736-874a-3ba39bed16b0  
+11d174e0-3ca3-4aae-9cc2-1ae770e053d6 
+376a7052-6a7d-4ae9-955e-3fd154b7100d  ",Up to Date,2024-10-02,1,2025-01-03,0,1,1,0,0,1,Yes,Yes,Yes,Yes,No,,No,No,Poor,"""Customer disclosed difficulties previously but no follow-up action was taken or recorded."",""Agent failed to offer appropriate support early"",""Missed early warning signs""",Good,,Good,,Good,,Good with feedback,"""Key implications not explained"",""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding.""",Good with feedback,"""Customer preferences ignored"",""Message unclear or contradictory, causing customer confusion.""",Good,,No,No,null,,null,Good Outcome with Feedback,02/10/2024,417,03/01/2025,93,,
+52,25/07/2025,2025-07-25,"0c57d1f9-fbe5-4e32-89f3-8cfabbe24024,
+c444d726-339f-47e5-abee-f5eee9a88b39,
+c052f761-62f6-4c64-9aa9-d9031d19099b,
+c0219245-21da-4760-94b5-dde3593cbbbd,
+f2a931a5-2d50-4ef4-8c17-bace6a405131,
+bac8bc58-dc4a-4f8e-a3be-fac32e06e90f,
+6832bc5f-0796-434b-ac81-eef6550e93a3,
+0047ee83-9b5d-4def-a897-d8e8b004bb0c,
+42e171d2-6f5a-4daf-96b5-c6e9f49c5480
+
+https://uk.aeriandi.com/player/app/v2/84490/4744344/portal/?ref_64249034, 	
+https://uk.aeriandi.com/player/app/v2/84490/4744344/portal/?ref_62681937, 
+https://uk.aeriandi.com/player/app/v2/84490/4744344/portal/?ref_64083642, 
+https://uk.aeriandi.com/player/app/v2/84490/4744344/portal/?ref_62833445,
+https://uk.aeriandi.com/player/app/v2/84490/4744344/portal/?ref_71813033,
+https://uk.aeriandi.com/player/app/v2/84490/4744344/portal/?ref_79995317,
+ 
+
+",Terminated,2023-11-16,2,2024-11-01,868.8,2,2,0,0,0,Yes,Yes,Yes,Yes,Yes,"""Financial"",""Health and Capacity""",No,No,Poor,"""Agent failed to offer appropriate support early"",""Missed early warning signs""",Good with feedback,"""Signs of vulnerability not probed or acknowledged """,Poor,"""Customer challenges not explored"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good with feedback,"""Proposed solution not affordable or sustainable based on I&E or customer disclosure.""",Poor,"""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding."",""Next steps unclear or conflicting""",Good,,Good,,No,No,null,,null,Poor Outcome - Advisor,16/11/2023,738,01/11/2024,351,,
+53,28/07/2025,2025-07-24,"79086901
+80950312
+80955678 
+33ab5ede-2a39-4157-98bf-d755da435dc8
+e27ac0c0-a4fc-45db-9ff2-57a2a1b70fb1 
+37fb2b05-85ed-4909-954d-0d6ccdee037b
+58f9e665-0f5d-41e5-abf9-44cf5d27a14f",DCA,2023-05-22,1,2024-09-02,83.28,0,0,1,1,2,Yes,Yes,Yes,Yes,Yes,"""Mental & Emotional Wellbeing"",""Life Events"",""Financial""",No,No,Poor,"""Missed early warning signs"",""No proactive contact made despite available indicators of payment stress or pre-arrears."",""Non Justified hold or delay in contact, leading to escalation in arrears or stress for the customer."",""Agent failed to offer appropriate support early"",""Customer disclosed difficulties previously but no follow-up action was taken or recorded.""",Poor,"""Signs of vulnerability not probed or acknowledged "",""Standard solutions offered, no evidence of tailoring based on the vulnerability."",""Support offered was not appropriate for the vulnerability"",""Vulnerability flag not recorded or updated, impacting future support consistency.""",Poor,"""Income & expenditure not captured, or done superficially with no follow-up questions."",""Key income/outgoings missed or misclassified"",""Customer challenges not explored"",""Assumptions made without clarification"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Poor,"""Proposed solution not affordable or sustainable based on I&E or customer disclosure."",""Inflexible options offered"",""Inappropriate solution for customer scenario"",""No rationale recorded for solution chosen, so suitability cannot be evidenced."",""Customer’s preferences not considered""",Poor,"""Key implications not explained"",""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding."",""Next steps unclear or conflicting"",""Customer questions not answered properly or dismissed.""",Poor,"""Tone was dismissive or robotic, lacking empathy or understanding."",""Message unclear or contradictory, causing customer confusion."",""Delayed response or contact, leading to increased customer detriment or anxiety.""",Poor,"""Key details missing or incomplete in the system "",""Next steps not documented or wrongly recorded, leading to confusion or follow-up issues."",""Inconsistency between call notes and system updates""",No,Yes,null,,null,Poor Outcome - Advisor,22/05/2023,916,02/09/2024,469,,
+54,30/07/2025,2025-07-30,"109170e2-b059-4766-aedd-725a07dddacc
+616915d3-fe64-4f16-bf62-83704a198c79",In strategy,2024-11-20,2,2025-01-02,38.44,2,2,0,0,0,Yes,Yes,Yes,Yes,No,,No,No,Good,,Good,,Good with feedback,"""Customer challenges not explored""",Good,,Good,,Good,,Good,,No,Yes,null,,null,Good Outcome with Feedback,20/11/2024,368,02/01/2025,43,,
+55,31/07/2025,2025-07-31,"0fb90e43-2324-4791-bdc8-25f79f5d78f7,
+ac34a783-7e89-4911-9ad3-4b439e4e8c47,
+1a957c51-78a0-4d75-913b-32a40a1e7744,
+84f9192a-7062-4581-a2d5-04c6f5243aa7,
+06787f36-5fc8-4bd6-8135-ffc4c5c01c30",In strategy,2024-04-15,1,2025-01-10,138.63,1,1,0,0,0,Yes,Yes,Yes,Yes,No,,No,No,Poor,"""No proactive contact made despite available indicators of payment stress or pre-arrears."",""Missed early warning signs""",Good,,Good with feedback,"""Customer challenges not explored""",Good,,Poor,"""Next steps unclear or conflicting""",Good,,Good,,No,No,null,,null,Poor Outcome - Advisor,15/04/2024,587,10/01/2025,270,,
+56,08/08/2025,2025-08-08,"77e24937-07c8-4416-8986-f9fb83b5efc4
+982503af-4c6e-4681-9833-641d02087499
+d7f44e38-d53d-4cd9-876b-ee897dd2b826
+9a6dc697-fe5b-4817-8910-751912a253d5
+41102cfb-cc9f-49c0-b9ac-536d52920490
+07f4265e-e120-45af-bf54-e12923bcdf11
+",Terminated,2024-11-14,1,2025-01-07,822,2,0,0,0,0,Yes,Yes,Yes,Yes,Yes,"""Financial""",No,No,Good,,Good,,Good with feedback,"""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good,,Good,,Good,,Good,,No,No,null,,null,Good Outcome with Feedback,14/11/2024,374,07/01/2025,54,,
+58,11/08/2025,2025-08-11,"78710588
+e520e554-44eb-4eb0-8123-8cfb48e27039 
+37b15b77-45e1-4544-a406-fefca44df29e
+436c3b34-8f7a-40cf-a194-2b445d95ac39
+81cef261-97d1-4e3c-a3c6-25af154cb49c 
+4fb4f3ad-ce94-41e7-9de5-5b108c465727
+b87fc864-2a37-4944-884f-10eaeb9c3a97
+e64a5893-8912-4c71-8ef8-a5e49c91617e ",Up to Date,2024-04-13,1,2024-09-16,0,0,0,1,0,1,Yes,Yes,Yes,Yes,No,,No,Yes,Good with feedback,"""No proactive contact made despite available indicators of payment stress or pre-arrears."",""Missed early warning signs""",Good,,Good with feedback,"""Key income/outgoings missed or misclassified"",""Customer challenges not explored"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good with feedback,"""No rationale recorded for solution chosen, so suitability cannot be evidenced.""",Poor,"""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding."",""Next steps unclear or conflicting"",""Jargon or technical terms used with no clarification"",""Customer questions not answered properly or dismissed.""",Poor,"""Message unclear or contradictory, causing customer confusion."",""Customer preferences ignored"",""Incorrect or misleading information given, including wrong payment dates or account details.""",Poor,"""Key details missing or incomplete in the system "",""Next steps not documented or wrongly recorded, leading to confusion or follow-up issues."",""Inconsistency between call notes and system updates""",No,No,null,,null,Good Outcome with Feedback,13/04/2024,589,16/09/2024,156,,
+57,11/08/2025,2025-08-11,"cad33e9d-8ec6-4eee-8291-b64cf2893d4d
+011ebfdc-85f3-4d4e-8ae9-53f85426a717
+fc333407-6a03-45fc-8458-e9c80cd67d87
+eb926c74-ec41-4917-ac1f-d9f06d2f3e22
+025c6b33-6103-4fc8-afce-b958b6218baf
+084b8652-5f0d-47ab-9c71-74706606918e",In strategy,2024-05-02,3,2024-07-29,34.06,4,2,0,0,0,Yes,Yes,Yes,Yes,No,,No,No,Good,,Good,,Good,,Good,,Good,,Good with feedback,"""Message unclear or contradictory, causing customer confusion.""",Good,,No,No,null,,null,Good Outcome with Feedback,02/05/2024,570,29/07/2024,88,,
+59,13/08/2025,2025-08-13,53da8d6a-2526-4ab4-86e9-f0dc80ea386b,In strategy,2023-11-24,5,2023-03-13,1627.87,1,1,0,0,0,Yes,Yes,Yes,Yes,No,,No,No,Good,,Good,,Poor,"""Customer challenges not explored"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Poor,"""Inflexible options offered"",""Inappropriate solution for customer scenario"",""Customer’s preferences not considered""",Good,,Good,,Good with feedback,"""Inconsistency between call notes and system updates"",""Key details missing or incomplete in the system """,No,No,null,,null,Good Outcome with Feedback,24/11/2023,730,13/03/2023,-256,,
+60,14/08/2025,2025-08-14,9175e159-21ad-4d8d-8fc3-9b1d7e5bba0a,In strategy,2024-11-20,3,2024-12-30,1213.33,1,1,0,0,0,Yes,Yes,Yes,Yes,No,,No,No,Good,,Good,,Good,,Good,,Good,,Good,,Good,,Yes,No,null,,null,Good Outcome ,20/11/2024,368,30/12/2024,40,,
+61,18/08/2025,2025-08-18,"https://uk.aeriandi.com/player/app/v2/84490/4744344/portal/?ref_60732368
+06c40e78-e102-4d9d-8f45-155708007df8
+f4e5b364-1b2b-483e-b4c6-9749fd9123ea
+9d50fc82-4b3f-46a9-91a5-7efbe50178d0
+",Up to Date,2023-09-30,1,2024-12-27,0,1,0,0,0,0,Yes,Yes,Yes,Yes,No,,No,No,Good,,Good,,Good,,Good with feedback,"""Customer’s preferences not considered""",Good,,Good with feedback,"""Customer preferences ignored""",Good,,No,No,null,,null,Good Outcome with Feedback,30/09/2023,785,27/12/2024,454,,
+62,20/08/2025,2025-08-19,"77327859
+79077065
+79078606
+79078662
+79078930
+913f284a-acee-475b-8248-441892a9854d
+67afec1d-9d4c-4c77-ace1-4054870a674c
+19ed18df-96c8-40d3-8b76-fdc616688ba7
+201e5ee3-0726-4477-a41e-995dc92b77c3 
+ 98aa2bc1-3262-4fdf-8674-f0ad2054a50c",Terminated,2025-05-02,1,2024-09-12,654.16,0,0,1,0,1,Yes,Yes,Yes,Yes,Yes,"""Mental Capacity"",""Life Events""",No,No,Poor,"""Missed early warning signs"",""Agent failed to offer appropriate support early"",""Customer disclosed difficulties previously but no follow-up action was taken or recorded.""",Good,,Good with feedback,"""Customer challenges not explored"",""Assumptions made without clarification""",Good,,Good with feedback,"""Customer questions not answered properly or dismissed."",""Next steps unclear or conflicting""",Poor,"""Message unclear or contradictory, causing customer confusion."",""Tone was dismissive or robotic, lacking empathy or understanding.""",Poor,"""Key details missing or incomplete in the system "",""Inconsistency between call notes and system updates"",""Incorrect flags or statuses applied""",No,Yes,null,,null,Good Outcome with Feedback,02/05/2025,205,12/09/2024,-232,,
+63,21/08/2025,2025-08-21,"c27d24b1-1538-432e-99ce-d62201032d6c
+66b97c15-8f56-42f4-9882-d4ff863f4bd4
+2b71e4bb-7445-4291-a7bf-42ec98cef675",Up to Date,2024-11-04,1,2025-01-01,0,1,0,0,0,1,N/A,Yes,N/A,Yes,Yes,"""Health and Capacity""",No,No,Good,,Good with feedback,"""Standard solutions offered, no evidence of tailoring based on the vulnerability.""",Good,,Good,,Good,,Good,,Good with feedback,"""Next steps not documented or wrongly recorded, leading to confusion or follow-up issues.""",No,No,null,,null,Good Outcome ,04/11/2024,384,01/01/2025,58,,
+64,26/08/2025,2025-08-26,"53da8d6a-2526-4ab4-86e9-f0dc80ea386b
+0881b85f-f808-4d6e-852b-b932aa990ea7
+240ff61e-085c-481e-bf16-e1bb383bfc13
+bba55a2e-0a7c-4256-85ec-c6b6d2cf30a3
+e7a5b761-5adc-4474-9e8f-9a0e60ae3e31",Terminated,2024-11-27,1,2025-01-10,1628.42,1,1,0,0,0,Yes,Yes,Yes,Yes,No,,No,No,Poor,"""Missed early warning signs""",Good,,Poor,"""Customer challenges not explored"",""Assumptions made without clarification"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good,,Good with feedback,"""Key implications not explained""",Good with feedback,"""Tone was dismissive or robotic, lacking empathy or understanding.""",Good,,Yes,No,null,,null,Poor Outcome - Advisor,27/11/2024,361,10/01/2025,44,,
+65,28/08/2025,2025-08-28,"b006ea47-dfab-4ecf-9ab3-633cbcee9ac6
+https://uk.aeriandi.com/player/app/v2/84490/4744344/portal/?ref_74985864
+
+There is a third call, relevant to this, but I have been unable to locate this.",Up to Date,2024-05-18,2,2024-10-07,0,1,0,0,0,0,Yes,Yes,Yes,N/A,No,,No,No,Good with feedback,"""Agent failed to offer appropriate support early""",Good,,Good,,Good,,Good with feedback,"""Jargon or technical terms used with no clarification""",Good with feedback,"""Message unclear or contradictory, causing customer confusion.""",Good,,No,No,null,,null,Good Outcome with Feedback,18/05/2024,554,07/10/2024,142,,
+66,29/08/2025,2025-08-29,"9d99346a-a356-4221-b489-dc9dfce5ea8c
+36d09f06-48a7-463e-8694-41baab44066f
+49fe6288-08a5-4877-b62e-ca4ff3773e1f
+97575de5-f712-46fb-9684-4517fc4ef8d1
+955ca255-27ca-448c-bfda-fdd313d58703
+c32d86bc-9276-4e30-b242-74207a6a2cf8
+7dc9ff31-3dd9-4b6b-a27d-0515a4d2e2c5
+a3fef7cb-eebc-471d-94b6-49acec7f27a5
+3bdf5ade-8d88-45de-b4d7-01a138962c22
+c4fc2384-f98b-4a6c-b87e-962ba5fc5682 
+cea678a0-a781-45bf-a3fa-0f5a7dbb2192
+b4aa3529-653e-4a01-8ab4-62612eac4cb6 
+687f08c3-3f11-43ea-a4fd-fa45b460f88e 
+017e6230-93e6-4721-80ff-c9be96c5f83e
+0a4232bb-ad25-4d1d-9ea4-782cf73b2107
+4b0171ec-1fd8-4515-aafa-47cba1cfbd58 
+24d79fa9-154d-4e49-a5e0-76201abce5d0
+e1d95d14-0b64-4780-a111-52c83483a3e1
+64593a93-1a3b-4de3-bf71-271db46b6d14
+54de72a8-c23e-411d-86af-d61057a6f7bd
+55adea2c-ff3c-470a-8676-d802ad8a45b6
+5919a7ea-2b33-4121-b18f-eb7d41028672
+2293d82c-5112-44b6-a38d-f237ad92a63c
+c4bdee66-badc-46b5-909f-f778186507fe 
+a2797485-1ece-41ff-8624-aeb8b1a193d8
+",DCA,2024-05-16,1,2024-07-15,296.34,2,2,2,2,4,Yes,Yes,Yes,Yes,Yes,"""Mental & Emotional Wellbeing"",""Financial"",""Life Events""",No,No,Good with feedback,"""Missed early warning signs""",Poor,"""Standard solutions offered, no evidence of tailoring based on the vulnerability."",""Support offered was not appropriate for the vulnerability""",Good with feedback,"""Income & expenditure not captured, or done superficially with no follow-up questions."",""Key income/outgoings missed or misclassified"",""Customer challenges not explored""",Good with feedback,"""No rationale recorded for solution chosen, so suitability cannot be evidenced."",""Customer’s preferences not considered""",Poor,"""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding."",""Next steps unclear or conflicting"",""Jargon or technical terms used with no clarification"",""Customer questions not answered properly or dismissed."",""Key implications not explained""",Poor,"""Tone was dismissive or robotic, lacking empathy or understanding."",""Message unclear or contradictory, causing customer confusion."",""Incorrect or misleading information given, including wrong payment dates or account details.""",Good with feedback,"""Next steps not documented or wrongly recorded, leading to confusion or follow-up issues.""",No,No,null,,null,Poor Outcome - Advisor,16/05/2024,556,15/07/2024,60,Customer not fully understanding,Customer not fully understanding
+67,29/08/2025,2025-08-29,"ff0916bc-de90-40c3-b858-e3b2f63e11de
+8724d4f2-d12a-44af-8377-569f41e90dd6
+https://uk.aeriandi.com/player/app/v2/84490/4744344/portal/?ref_81191427",Terminated,2023-12-11,2,2024-10-22,882.22,3,3,0,0,0,Yes,Yes,Yes,N/A,Yes,"""Health and Capacity""",No,No,Good,,Good,,Good,,Good,,Good with feedback,"""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding.""",Good,,Good,,No,No,null,,null,Good Outcome with Feedback,11/12/2023,713,22/10/2024,316,Customer not fully understanding,Customer not fully understanding
+68,29/08/2025,2025-08-29,"cda95e83-4a7b-4e1f-8d55-b86fc4173520
+1b533f63-0cb5-43dd-b34a-353b05991338
+76847c9b-a14a-4f74-b630-44391fc9339c",In strategy,2024-08-04,1,2024-09-30,56.1,1,1,0,0,0,Yes,Yes,Yes,N/A,No,,No,No,Good with feedback,"""No proactive contact made despite available indicators of payment stress or pre-arrears.""",Good,,Good with feedback,"""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good,,Good with feedback,"""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding.""",Good with feedback,"""Tone was dismissive or robotic, lacking empathy or understanding.""",Good,,No,No,null,,null,Good Outcome with Feedback,04/08/2024,476,30/09/2024,57,Customer not fully understanding,Customer not fully understanding
+69,09/09/2025,2025-09-09,"43d7f072-0502-4a45-851e-e308c39aba13
+111b917f-07b4-4eb4-b8ec-07aefd060d12 
+a1b61a8b-fbe0-4117-8b18-087a002d4647
+a9deff97-f08d-4e36-9237-8c25e8f32dc7
+9101ba1b-449f-41b2-9be7-242edda4f2a5",Up to Date,2024-07-24,1,2024-08-27,0,1,0,1,1,2,Yes,Yes,Yes,Yes,No,,No,Yes,Poor,"""Agent failed to offer appropriate support early"",""Missed early warning signs""",Good,,Good,,Good,,Poor,"""Next steps unclear or conflicting"",""Key implications not explained"",""Jargon or technical terms used with no clarification"",""Customer questions not answered properly or dismissed.""",Good with feedback,"""Message unclear or contradictory, causing customer confusion."",""Incorrect or misleading information given, including wrong payment dates or account details.""",Good with feedback,"""Next steps not documented or wrongly recorded, leading to confusion or follow-up issues."",""Inconsistency between call notes and system updates""",No,No,null,,null,Poor Outcome - Advisor,24/07/2024,487,27/08/2024,34,Preventable arrears,Preventable arrears
+70,15/09/2025,2025-09-15,"a3aabb75-c6d6-4d54-ae67-7360fecd0aca
+4ce3cb1b-fe31-4b85-86fb-3aede72c8f67
+377c9c76-17b7-4ad6-bf67-3f612117cef4",Up to Date,2023-06-17,1,2025-02-03,0,1,0,0,0,1,Yes,Yes,Yes,Yes,No,,No,No,Good,,Good with feedback,"""Signs of vulnerability not probed or acknowledged """,Good,,Good,,Good,,Good,,Good,,No,No,null,,null,Good Outcome ,17/06/2023,890,03/02/2025,597,,
+71,16/09/2025,2025-09-16,"c75eda46-e8ca-484e-92d6-12a511dbd8c9
+8c9b3d78-ede7-42bc-b42f-75b42448b62b
+",Up to Date,2024-11-18,1,2025-02-20,0,1,0,0,0,1,Yes,Yes,Yes,Yes,No,,No,No,Good,,Good with feedback,"""Signs of vulnerability not probed or acknowledged "",""Support offered was not appropriate for the vulnerability""",Good with feedback,"""Customer challenges not explored""",Good,,Good with feedback,"""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding."",""Customer questions not answered properly or dismissed.""",Good with feedback,"""Message unclear or contradictory, causing customer confusion.""",Good,,No,No,null,,null,Good Outcome with Feedback,18/11/2024,370,20/02/2025,94,Customer not fully understanding,Customer not fully understanding
+72,18/09/2025,2025-09-18,"78082384
+80871274
+dbeadd44-93e7-4a59-821a-eba8d17d2e83
+d8d78ec5-ebe9-405c-a0be-e1f0f02f6266
+956bc6a5-feab-4ce2-879d-6e2d32f604d6
+1651a330-b707-482e-98f5-5a7dd622e374
+c583d257-291a-475b-b0c4-2888b090fe92
+",Up to Date,2024-09-02,2,2024-11-20,0,1,0,1,0,2,Yes,Yes,Yes,Yes,No,,No,No,Poor,"""Agent failed to offer appropriate support early"",""Missed early warning signs""",Good,,Good with feedback,"""Customer challenges not explored"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good,,Poor,"""Next steps unclear or conflicting"",""Key implications not explained""",Good with feedback,"""Tone was dismissive or robotic, lacking empathy or understanding.""",Good,,No,No,null,,null,Poor Outcome - Advisor,02/09/2024,447,20/11/2024,79,Preventable arrears,Preventable arrears
+73,24/09/2025,2025-09-24,"73570385
+75054013
+75059867
+cb42a228-cb95-4730-b484-c8f808e267c0
+8b415575-7374-461e-aafe-bbbd885559ec",In strategy,2023-10-11,2,2024-06-12,17.92,2,1,0,0,2,Yes,Yes,Yes,Yes,Yes,"""Health and Capacity""",No,No,Poor,"""Agent failed to offer appropriate support early"",""Non Justified hold or delay in contact, leading to escalation in arrears or stress for the customer.""",Poor,"""Standard solutions offered, no evidence of tailoring based on the vulnerability."",""Support offered was not appropriate for the vulnerability""",Poor,"""Customer challenges not explored"",""Assumptions made without clarification"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good with feedback,"""Inflexible options offered"",""Customer’s preferences not considered""",Poor,"""Next steps unclear or conflicting"",""Customer questions not answered properly or dismissed."",""Key implications not explained""",Good with feedback,"""Message unclear or contradictory, causing customer confusion."",""Incorrect or misleading information given, including wrong payment dates or account details.""",Poor,"""Key details missing or incomplete in the system """,No,Yes,null,,null,Poor Outcome - Advisor,11/10/2023,774,12/06/2024,245,Customer not fully understanding,Customer not fully understanding
+74,29/09/2025,2025-09-24,"c4931e4b-2891-457d-9184-7bd4de49c1a1
+c1a3d491-7805-48bf-a3f3-78acc9616fa5
+100cf53a-31ce-4511-8ed8-60d5a60febdc
+e57959bb-7287-498a-afc9-bb8a7b5cd552
+623331c9-1589-46ed-87ee-f4f250c5d40d
+b34e133a-3538-4cd5-a681-c6162a63a758 
+2421b2d8-8fee-47df-9b02-6819141fea52 
+e62e7c3b-6b25-4d30-afd6-95e8ce7467b6
+b80f1620-10fc-44e7-9b09-f316feb024b3 ",DCA,2024-09-17,1,2025-01-06,1139.56,1,1,0,0,1,Yes,Yes,Yes,Yes,Yes,"""Health and Capacity"",""Life Events""",No,No,Good with feedback,"""Missed early warning signs""",Poor,"""Signs of vulnerability not probed or acknowledged "",""Customer disclosure overlooked or not acted upon"",""Standard solutions offered, no evidence of tailoring based on the vulnerability."",""Support offered was not appropriate for the vulnerability"",""Vulnerability flag not recorded or updated, impacting future support consistency.""",Poor,"""Income & expenditure not captured, or done superficially with no follow-up questions."",""Customer challenges not explored"",""Assumptions made without clarification"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Poor,"""Proposed solution not affordable or sustainable based on I&E or customer disclosure."",""Inappropriate solution for customer scenario"",""No rationale recorded for solution chosen, so suitability cannot be evidenced.""",Poor,"""Key implications not explained"",""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding."",""Jargon or technical terms used with no clarification"",""Customer questions not answered properly or dismissed.""",Good with feedback,"""Tone was dismissive or robotic, lacking empathy or understanding."",""Message unclear or contradictory, causing customer confusion.""",Good with feedback,"""Key details missing or incomplete in the system """,No,Yes,null,,null,Poor Outcome - Advisor,17/09/2024,432,06/01/2025,111,Support/Forbearance opportunities,Support/Forbearance opportunities
+77,30/09/2025,2025-09-30,"44fbf3b4-a51c-49fc-bfe8-fd5d47576cf1
+60d0a527-5125-4647-8ea3-fec704fa12bb
+b08b4019-8a6c-4e1a-b523-b4e9c2e87dd2
+bc34b999-ad41-4f8c-b6f4-8610100c6268
+e4803492-e870-4965-b68b-7bb8ff4fc082
+372b0568-8035-414b-9557-e90ed4787fc3
+c4818dbe-c6a3-471f-9deb-a33d2a157332
+60732244-58a0-4118-b1a2-ee2e079225b5
+164bfabc-b743-431a-852f-4a73891cc942
+1ef3cf6d-2960-4f0f-bfc8-b6c3e8b59a08",Up to Date,2024-06-13,3,2024-09-25,0,2,1,0,0,2,Yes,Yes,Yes,Yes,Yes,"""Mental & Emotional Wellbeing"",""Life Events""",No,No,Poor,"""Missed early warning signs"",""Customer disclosed difficulties previously but no follow-up action was taken or recorded."",""Agent failed to offer appropriate support early""",Poor,"""Signs of vulnerability not probed or acknowledged "",""Customer disclosure overlooked or not acted upon"",""Support offered was not appropriate for the vulnerability""",Good with feedback,"""Customer challenges not explored""",Good with feedback,"""Customer’s preferences not considered""",Good,,Good with feedback,"""Tone was dismissive or robotic, lacking empathy or understanding."",""Customer preferences ignored""",Good,,No,No,null,,null,Good Outcome with Feedback,13/06/2024,528,25/09/2024,104,Vulnerability process not followed,Vulnerability process not followed
+76,30/09/2025,2025-09-30,"2e0ceb5d-240b-438a-960d-603abadc2386, 
+af3d15b5-e2ed-483a-83b2-38c86aa2b90a,
+7ba76555-c698-49e8-a047-afba7410966c,
+dcd217f5-3eeb-4c2c-96be-b003008fa586,
+4ce5f9cc-abe7-4c4c-beba-bd18aea29457,
+06f66689-204d-4451-933b-ba996412aa08,
+9924c752-12c8-414e-a57f-f0f4e489c00a",Up to Date,2025-04-17,1,2025-06-03,0,0,0,1,0,0,N/A,Yes,N/A,N/A,No,,No,No,Good with feedback,"""Missed early warning signs""",Good,,Good,,Good,,Good,,Good,,Good,,No,No,null,,null,Good Outcome with Feedback,17/04/2025,220,03/06/2025,47,Preventable arrears,Preventable arrears
+75,30/09/2025,2025-09-29,"3e669f2d-988b-4e80-91b9-ab81892b4a6f
+47e1b161-7c6c-4877-8283-685c3325e18b
+ed1a1469-13c2-4038-a670-a507f48d12aa
+3dc9d50c-378c-4c71-b516-272ab5fa4898
+588dcb52-4a8a-4a5a-91e2-1549b497bdcd
+c6b0532c-308c-41ea-ac85-5f910cf8194f
+181d8692-e73d-4ac3-9eae-e47a8a6e676f
+9d5f92cd-f3af-4642-910e-56cce15ae23d",Up to Date,2024-11-03,1,2024-11-19,0,1,0,0,0,1,Yes,Yes,Yes,Yes,Yes,"""Financial"",""Accessibility""",No,No,Poor,"""Missed early warning signs"",""Customer disclosed difficulties previously but no follow-up action was taken or recorded."",""Agent failed to offer appropriate support early""",Good with feedback,"""Standard solutions offered, no evidence of tailoring based on the vulnerability.""",Good,,Good,,Good,,Good,,Good,,No,Yes,null,,null,Good Outcome with Feedback,03/11/2024,385,19/11/2024,16,Support/Forbearance opportunities,Support/Forbearance opportunities
+79,21/10/2025,2025-10-21,"9f6f16a4-e32a-47f2-8232-8c81ad9f17c4
+d06832b2-9201-4cdc-b77a-232e2e9b052f
+38606603-2678-424f-ab1c-3495302cb0c3
+",Up to Date,2024-03-13,1,2025-02-17,0,0,0,1,1,1,Yes,Yes,Yes,Yes,No,,No,No,Good,,NA,,Good,,Good,,Good,,Good with feedback,"""Incorrect or misleading information given, including wrong payment dates or account details.""",Good,,No,No,Communications failures,,null,Good Outcome with Feedback,13/03/2024,620,17/02/2025,341,,
+78,21/10/2025,2025-10-21,"6f5cf473-045e-445c-82f6-d5fdca5e0559
+42722d0b-b2b8-49e0-bbd2-1d7d7f71edd6
+0e4a6b94-f49f-4015-9ce5-7fa12946e35a
+",DCA,2024-06-02,1,2025-03-13,877.6,0,0,1,1,1,Yes,Yes,Yes,Yes,Yes,"""Mental & Emotional Wellbeing"",""Financial""",No,No,Poor,"""Agent failed to offer appropriate support early"",""Customer disclosed difficulties previously but no follow-up action was taken or recorded."",""Missed early warning signs""",Poor,"""Signs of vulnerability not probed or acknowledged "",""Customer disclosure overlooked or not acted upon"",""Standard solutions offered, no evidence of tailoring based on the vulnerability.""",Good with feedback,"""Customer challenges not explored"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good with feedback,"""No rationale recorded for solution chosen, so suitability cannot be evidenced."",""Inappropriate solution for customer scenario""",Poor,"""Key implications not explained"",""Next steps unclear or conflicting"",""Customer questions not answered properly or dismissed.""",Good with feedback,"""Tone was dismissive or robotic, lacking empathy or understanding."",""Customer preferences ignored""",Good with feedback,"""Next steps not documented or wrongly recorded, leading to confusion or follow-up issues.""",No,No,Preventable arrears,,null,Poor Outcome - Advisor,02/06/2024,539,13/03/2025,284,,
+80,22/10/2025,2025-10-21,"a415b101-6393-48eb-b648-0c878aa610ed
+8065ab1a-1f4c-4f3e-be07-c18d80fbdb2d",DCA,2024-10-21,1,2024-12-03,817.66,0,0,1,1,1,Yes,Yes,Yes,Yes,No,,No,No,Good,,NA,,Good with feedback,"""Customer challenges not explored"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good,,Good with feedback,"""Next steps unclear or conflicting"",""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding.""",Good,,Good,,No,No,Customer not fully understanding,,null,Good Outcome with Feedback,21/10/2024,398,03/12/2024,43,,
+81,28/10/2025,2025-10-28,"337cb9b5-2cac-45b0-863d-668d3d9e0db4
+b3c3d736-f78a-4b52-a14c-8f562c31c20b
+58511e9a-d1e7-4d66-95fc-328fdfd66542
+d508b78e-b6d1-45e4-9a96-5f021dfb2587
+89f841f4-a23c-48d5-ae3b-870bafc4ce67
+",Terminated,2024-06-26,1,2024-08-25,796.5,0,0,1,1,1,Yes,Yes,Yes,Yes,No,,No,Yes,Good with feedback,"""Missed early warning signs""",NA,,Poor,"""Customer challenges not explored"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good with feedback,"""No rationale recorded for solution chosen, so suitability cannot be evidenced.""",Poor,"""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding."",""Jargon or technical terms used with no clarification"",""Customer questions not answered properly or dismissed.""",Good with feedback,"""Tone was dismissive or robotic, lacking empathy or understanding.""",Good with feedback,"""Key details missing or incomplete in the system "",""Next steps not documented or wrongly recorded, leading to confusion or follow-up issues.""",Yes,Yes,Customer circumstances not understood,,null,Poor Outcome - Advisor,26/06/2024,515,25/08/2024,60,,
+82,30/10/2025,2025-10-28,"dc012019-0c36-4798-b8dc-6877c02861d9
+6c21f1a8-2fea-4f6e-b030-dbdf92e9b41c
+05bf05d7-8de7-4d85-bdaa-8aa95fa64fdf
+5c4f135c-13e5-496d-9fdd-d6d5ef93424d
+82b0c7f9-e6c9-44f1-a5ab-8ebc8702e2d0
+ee96accc-7f6e-4f69-bf41-cc1e175b9056
+f8b79cd8-a480-47ac-8aef-26f25f2f29d4
+03d37525-7488-4d10-9735-08957e5d6314
+d7b45a1e-9d10-4421-8315-69993e0f0f63
+57fa4a87-bfbb-42a0-a883-2599f47d09b8
+582201e8-e438-4259-a2b0-6bee1dc12243
+7fc3ee35-e5b7-4409-8cbd-fcf092571edd
+97048680-7e0d-44ce-9217-93f8d5ca40d4
+42330d9f-9cc4-4c49-a184-5e38432d6ade
+
+",In strategy,2025-02-27,3,2025-03-15,0,1,0,0,0,1,Yes,Yes,Yes,Yes,Yes,"""Health and Capacity"",""Mental & Emotional Wellbeing"",""Financial"",""Life Events"",""Mental Capacity""",No,No,Poor,"""Missed early warning signs"",""No proactive contact made despite available indicators of payment stress or pre-arrears."",""Agent failed to offer appropriate support early"",""Customer disclosed difficulties previously but no follow-up action was taken or recorded.""",Poor,"""Signs of vulnerability not probed or acknowledged "",""Customer disclosure overlooked or not acted upon"",""Standard solutions offered, no evidence of tailoring based on the vulnerability."",""Support offered was not appropriate for the vulnerability"",""Vulnerability flag not recorded or updated, impacting future support consistency.""",Poor,"""Income & expenditure not captured, or done superficially with no follow-up questions."",""Key income/outgoings missed or misclassified"",""Customer challenges not explored"",""Assumptions made without clarification"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Poor,"""Inflexible options offered"",""Inappropriate solution for customer scenario"",""No rationale recorded for solution chosen, so suitability cannot be evidenced."",""Customer’s preferences not considered""",Poor,"""Key implications not explained"",""Customer asked no questions/questions ignored and was rushed, suggesting lack of understanding."",""Next steps unclear or conflicting"",""Jargon or technical terms used with no clarification"",""Customer questions not answered properly or dismissed.""",Poor,"""Tone was dismissive or robotic, lacking empathy or understanding."",""Message unclear or contradictory, causing customer confusion."",""Customer preferences ignored""",Poor,"""Key details missing or incomplete in the system "",""Next steps not documented or wrongly recorded, leading to confusion or follow-up issues.""",Yes,Yes,Vulnerability process not followed,,null,Poor Outcome - Advisor,27/02/2025,269,15/03/2025,16,,
+83,31/10/2025,2025-10-31,"102424c2-4147-4189-b85c-215a82971e34
+892bea7c-4776-4fa9-aad9-b7e0bf5385db
+940b7ec1-5e6e-486a-915a-09e8fdd05aeb
+b60e6970-b98d-4cef-ba4c-e90fb4975355
+85e01aa6-5bda-4621-9970-f1e18fa0b546
+2bbbf75f-c305-42a9-a614-9c93d39f0c78
+",DCA,2025-04-10,1,2025-05-12,162,0,0,1,1,1,Yes,Yes,Yes,Yes,Yes,"""Health and Capacity""",No,No,Good with feedback,"""Missed early warning signs"",""Agent failed to offer appropriate support early"",""Customer disclosed difficulties previously but no follow-up action was taken or recorded.""",Poor,"""Signs of vulnerability not probed or acknowledged "",""Customer disclosure overlooked or not acted upon"",""Vulnerability flag not recorded or updated, impacting future support consistency.""",Poor,"""Key income/outgoings missed or misclassified"",""Customer challenges not explored"",""Assumptions made without clarification"",""No evidence of personalisation in the outcome based on the customer’s circumstances.""",Good with feedback,"""Customer’s preferences not considered"",""No rationale recorded for solution chosen, so suitability cannot be evidenced."",""Proposed solution not affordable or sustainable based on I&E or customer disclosure.""",Good with feedback,"""Customer questions not answered properly or dismissed.""",Good with feedback,"""Tone was dismissive or robotic, lacking empathy or understanding."",""Message unclear or contradictory, causing customer confusion."",""Incorrect or misleading information given, including wrong payment dates or account details.""",Good with feedback,"""Key details missing or incomplete in the system """,No,No,Vulnerability process not followed,,null,Poor Outcome - Advisor,10/04/2025,227,12/05/2025,32,,
